@@ -7,3 +7,7 @@ Scaffold(Text("ksyoo 바보"))
 Scaffold(Text("ksyoo 바보"))
 
 Scaffold(Text("ksyoo 바보"))
+
+
+sdsdssd
+sdsdsdadasdad
