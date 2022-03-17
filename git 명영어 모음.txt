@@ -24,6 +24,12 @@ git bash 열고
 git bash 로 가서
   $ git clone "4번에서 복사해 온 링크"
 
+여기서 git clone 안 되면
+깃헙 우측 상단에 아바타 아이콘 클릭, Settings 클릭, SSH and GPG Keys 클릭 후
+그곳에
+  $ cat ~/.ssh/id_rsa.pub
+실행한 결과를 "New SSH Key" 클릭 후 붙여넣기 하면 됨
+
 6. Visual Studio Code 로 방금 복제해온 git 리포지토리 열기
 git bash 열어서
   $ cd
